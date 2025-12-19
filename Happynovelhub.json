@@ -8,9 +8,9 @@
     },
     {
         "device_id": "5f35baf3ce95d67d",
-        "username": "Happy",
+        "username": "1",
         "password": "1",
         "expirydate": "15-12-2026",
-        "Allowoffline": true
+        "Allowoffline": false
     }
 ]
